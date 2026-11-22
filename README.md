@@ -6,8 +6,17 @@
 
 **48 benchmark challenges · 6-test smoke suite · Up to 4 LLMs · Live NPU model control · No application backend**
 
-> **Live web app:** https://us4lkw.github.io/tiiny-llm-lab/  
-> This link will work once GitHub Pages has been enabled for the repository. A Tiiny AI Pocket Lab on a reachable network is required to execute benchmarks.
+## 🚀 Try Tiiny LLM Lab
+
+🌐 **[Launch Online — GitHub Pages](https://us4lkw.github.io/tiiny-llm-lab/)**
+
+📥 **[Download Standalone HTML — v0.1.0](https://github.com/US4LKW/tiiny-llm-lab/releases/download/v0.1.0/Tiiny-LLM-Lab.html)**
+
+No installation required! Launch the application online or download the standalone HTML file and open it in your browser.
+
+**Requirements:** A Tiiny AI Pocket Lab accessible on your local network and a valid API key.
+
+> **Note:** The online application is hosted on GitHub Pages, but model inference runs on your own Tiiny device. Browser security restrictions may affect access to local HTTP APIs from an HTTPS website.
 
 ## See it in action
 
